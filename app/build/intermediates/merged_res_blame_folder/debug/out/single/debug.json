@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/drawable_beatles_anthology_box.jpg.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/drawable/beatles_anthology_box.jpg"
+    },
+    {
+        "merged": "com.example.android.fragmentexample.app-merged_res-10:/layout_activity_main.xml.flat",
+        "source": "com.example.android.fragmentexample.app-main-12:/layout/activity_main.xml"
+    }
+]
